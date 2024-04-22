@@ -7,7 +7,7 @@ export default {
   theme: {
   
     backgroundImage:{
-      'hero': "url('../src/img/bg.jpg')",
+      'hero': "url('../src/img/bgnew.jpg')",
     }
   },
   plugins: [],
