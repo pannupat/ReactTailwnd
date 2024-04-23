@@ -84,7 +84,6 @@ class FlipCard extends React.Component {
               </p>
 
               <img
-                onClick={this.handleClick}
                 className="flex-block  px-1 pt-4 -mb-5 h-12"
                 src={barcode}
                 alt=""
