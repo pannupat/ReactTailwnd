@@ -8,6 +8,8 @@ export default {
   
     backgroundImage:{
       'hero': "url('../src/img/bgnew.jpg')",
+      'hero2': "url('../src/img/bg2.jpg')",
+
     }
   },
   plugins: [],
